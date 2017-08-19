@@ -2,14 +2,14 @@
 layout: default
 img: 1-1-1-pro.png
 category: Projects
-title: "Kaggle: <br> Restaurant Revenue Prediction"
+title: "Google: <br> CodeU"
 description: |
 ---
 
-* **Rank top 2% among 2257 teams from all over the world**.
+* Participated in an invite-online program run by senior software engineers at Google.
 
 
-* Build [multiple models](https://github.com/WesleyyC/RestaurantRevenuePrediction) using Ensemble, Linear Regression, Support Vector Machine, Regression Tree and Random Forest.
+* Worked with a partner to create a chat app using Java 7.
 
 
-* Run feature selection using Boruta and engineer data using techniques involving data imputation and data visualization. 
+* Invited to visit Google’s flagship office in Mountain View for my contributions to the project.
