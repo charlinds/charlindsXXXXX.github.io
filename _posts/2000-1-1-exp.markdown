@@ -3,7 +3,7 @@ layout: default
 img: 1-1-1-exp.png
 category: Experiences
 title: Akin Gump Strauss Hauer & Feld
-description: Litigation Intern|
+description: Litigation Intern
 ---
 * Worked in the Litigation department of the New York Office
 
