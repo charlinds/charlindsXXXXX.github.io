@@ -2,10 +2,12 @@
 layout: default
 img: 20-1-1-exp.png
 category: Experiences
-title: Undergraduate <br> Teaching Assistant
-description: |
+title: NYU Langone Institute of Reconstructive Plastic Surgery
+description: Summer Intern
 ---
 
-* The role has differed from course to course, but duties consistently entail office hours, grading, test grading, holding recitations, and review sessions
+* Consulted patients about possible treatment concerns using data and personal experience.
 
-* The courses are: Intro/Advanced Programing in Java, Data Structure, Structure and Interpretation of Computer Programs, and Operating System
+* Attended daily meetings with NYU surgeons, doctors, nurses, and administrators to discuss hospital and patient progress.
+
+* Sterilized surgical and exam kits for multiple units and set up rooms for patients.
