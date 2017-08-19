@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.wesleyq.me/
-title: Wesley W. Q.
-email: wesley.chin0919@gmail.com
-author: Wesley Wei Qian
-description: > # "Wesley Wei Qian's Personal Page"
+url: charlinds.github.io
+title: Charlotte A. Lindsay
+email: cal285@georgetown.edu
+author: Wharlotte Anne Lindsay
+description: > # "Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,20 +22,3 @@ gems:
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
-
-social:
-  - icon: medium
-    title: blog
-    url: https://medium.com/thoughts-and-notes
-  - icon: envelope-o
-    title: email
-    url: mailto:wesley.chin0919@gmail.com
-  - icon: github
-    title: github
-    url: https://github.com/WesleyyC
-  - icon: linkedin
-    title: linkedin
-    url: https://www.linkedin.com/in/wesleychin0919
-  - icon: file-pdf-o
-    title: resume
-    url: http://www.wesleyq.me/rsc/resume.pdf
